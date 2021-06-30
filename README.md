@@ -1,3 +1,6 @@
+# Demo Video
+[Click here](https://www.youtube.com/watch?v=iuFvMur8UfU)
+
 # Flashloan Arbitrage
 
 In this example we will use the [Money Legos Library](https://money-legos.studydefi.com/#/) to create a flashloan and arbitrage accross several DEXs.
