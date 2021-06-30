@@ -17,6 +17,11 @@ Below are high level instructions to try out this example using the **Kovan Test
 
 Rename [env](./env) to '.env' and complete the missing values for your project.
 
+Install dependencies
+```
+npm install
+```
+
 Connect your truffle console to the Kovan network like so:
 
 ```
