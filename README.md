@@ -1,5 +1,5 @@
 # Demo Video
-[Click here](https://www.youtube.com/watch?v=iuFvMur8UfU)
+[Click here](https://www.youtube.com/watch?v=iuFvMur8UfU) to see live flashloan arbitrage!
 
 # Flashloan Arbitrage
 
